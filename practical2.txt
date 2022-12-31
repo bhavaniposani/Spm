@@ -1,0 +1,22 @@
+1.discuss the role of project manager list out the suggested skills for all project managers and for information technology
+2.demonstarte how it mean to take a systems view of project 
+3.summarize key work involved in each of the six processes for project integration management
+4.compare the relationship between projects programs and potfolio management and the contributions each make to enterprise success
+5.describe triple constraint of project management  with examples
+6.discuss project management tools and techniques for assinging project manager during there development 
+7.discuss the various face of traditional project life cycle
+8.discuss various project integration managemant and explain 6 main processes are involved in project integration management
+9.discuss briefly about stratergy planning process during a spot analysis
+10.discuss breifly about how leadership is so important for project managers
+11.how does project integration management relate to project lifecycle ,stakeholders and the other project management areas
+12.how the 4 frames of organisation help project managers understand the organisational context for their projects
+13.define a project and what are its main attributes 
+14.define globalisation,outsourcing and virtual teams and describe how these trends are changing in IT project management
+15.what functions can you perform with project management software
+16.define some key events in the history of project management
+17.demonstarte how functional, matrix and project organistaion structure effects the management of the project 
+18.discuss breifly how IT projects makes diff from other types of projects 
+19.compare functional,matrix and project organistaion
+20.define the term project and explain the examples of IT projects
+21.define project management explain main processes are involved in project management
+22.Illustarte how do you understand about organisations summarise the four frames of organisations
